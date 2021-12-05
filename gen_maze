@@ -1,1 +1,10 @@
+"""
+  Read a maze string and generate a list of lists
+  Input should be an MxN maze with '*' for walls and <space> for paths
+  '\n' will be used to create each subsequent row of the maze
+  An 'o' will be the starting point and an 'x' will be the exit
+"""
 
+#paste maze here
+maze_str = ""
+maze_str.split()
